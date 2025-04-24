@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I'm Ade Muhammad Nur Fauzi, a Quality Assurance Engineer with experience in automation and manual testing for web, mobile, API, and Android TV platforms.
+🧪 Skilled in Pytest, Postman, Jenkins, JMeter, and K6
+💻 Passionate about clean code, test efficiency, and reliable software
+📊 I work with Python, JavaScript, PHP, VBScript, and various testing tools to ensure product quality.
+📫 Reach me at: ademnfauzi76@gmail.com
+
 
 <!--
 **ademnfauzi/ademnfauzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
